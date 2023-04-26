@@ -35,7 +35,7 @@ I am a French student in IT, specializing in Software engineering and Big Data.<
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://dynamic-badges.maxalpha.repl.co/meme" width="512px"/>
 
 
 ---
