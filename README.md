@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am a French student in IT, specializing in Software engineering et Big Data.<br>I love learning through projects of all kinds.
+I am a French student in IT, specializing in Software engineering and Big Data.<br>I love learning through projects of all kinds.
 
 
 ## 🌐 Socials:
