@@ -37,8 +37,8 @@ I am a French student in IT, specializing in Software engineering and Big Data.<
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
-<!--
----
-[![](https://visitcount.itsvg.in/api?id=jo-pouradier&icon=8&color=9)](https://visitcount.itsvg.in) -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=jo-pouradier&icon=8&color=9)](https://visitcount.itsvg.in)
+
+Proudly created with GPRM ( https://gprm.itsvg.in )
