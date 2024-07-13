@@ -3,7 +3,7 @@ Passionate tech enthusiast, constantly exploring new technologies and seeking a 
 
 # Tech Stack:
 
-Those stacks have been learn either at school, during my one year internship at Munich or for my homelab.
+Those stacks have been learned either at school, during my one-year internship in Munich, or for my homelab.
 
 ## Languages:
 
