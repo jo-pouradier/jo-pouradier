@@ -35,9 +35,9 @@ I learned these stacks at school, during my one-year internship in Munich, at wo
 ![Sentry](https://img.shields.io/badge/sentry-%23EA3546.svg?style=flat-square&logo=sentry&logoColor=white) ![SigNoz](https://img.shields.io/badge/SigNoz-FF4B00?style=flat-square&logo=signoz&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white)
 
 ## AI
-![OpenRouter](https://img.shields.io/badge/openrouter-%23632CA6.svg?style=flat-square&logo=openrouter&logoColor=white)
-![OpenCode](https://img.shields.io/badge/opencode-%23632CA6.svg?style=flat-square&logo=opencode&logoColor=white)
-![OpenCode](https://img.shields.io/badge/hermes-%23632CA6.svg?style=flat-square&logo=hermes&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/openrouter-%23121011.svg?style=flat-square&logo=openrouter&logoColor=white)
+![OpenCode](https://img.shields.io/badge/opencode-%23121011.svg?style=flat-square&logo=opencode&logoColor=white)
+![OpenCode](https://img.shields.io/badge/hermes-%23121011.svg?style=flat-square&logo=hermes&logoColor=white)
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=jo-pouradier&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
